@@ -42,11 +42,11 @@
     "dotenv": "16.4.5",
     "image-type": "^5.2.0",
     "mathjs": "14.0.0",
-    "sharp": "^0.33.5",
+    "sharp": "^0.35.0",
     "terminal-image": "^2.0.0",
     "zod": "3.25.76",
     "zod-to-json-schema": "3.23.5",
-    "valibot": "^1.0.0-rc.0 || ^1.0.0"
+    "valibot": "^1.4.2"
   },
   "scripts": {
     "test:e2e:all": "vitest run src/e2e/*.test.ts",
